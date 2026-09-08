@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Background
+
+Before starting the Master of Data Science program at UBC, I completed my undergraduate degree with a combined major in Computer Science and Statistics. During my undergraduate studies, I interned as an AI Engineer at China Telecom Co., Ltd. Shanghai Branch, where I gained experience applying my technical knowledge in a professional setting. I also worked as a Marketing Assistant Intern at Yanji (Zhejiang) Semiconductor Technology Co., Ltd., which gave me exposure to the business and marketing side of the technology industry. Currently, I work part-time in accounting at iDen & Quanjude in Vancouver while pursuing my master's degree.
+
+## Why Data Science
+
+My background in both computer science and statistics naturally led me to data science, as it brings together the areas I enjoyed most during my undergraduate studies. I chose the MDS program to gain more hands-on experience and learn how to approach real-world problems using data. I am especially interested in exploring different areas of data science and discovering where I would like to focus my career after graduation.
+
+## Outside of Data Science
+
+Outside of school and work, I enjoy travelling, swimming, and exploring new restaurants and food. I also have a cat named Mimi who keeps me company during my time at home.

@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Before starting the Master of Data Science program at UBC, I completed my undergraduate degree with a combined major in Computer Science and Statistics. During my undergraduate studies, I interned as an AI Engineer at China Telecom Co., Ltd. Shanghai Branch, where I gained experience applying my technical knowledge in a professional setting. I also worked as a Marketing Assistant Intern at Yanji (Zhejiang) Semiconductor Technology Co., Ltd., which gave me exposure to the business and marketing side of the technology industry. Currently, I work part-time in accounting at iDen & Quanjude in Vancouver while pursuing my master’s degree."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "Before starting the Master of Data Science program at UBC, I completed my undergraduate degree with a combined major in Computer Science and Statistics. During my undergraduate studies, I interned as an AI Engineer at China Telecom Co., Ltd. Shanghai Branch, where I gained experience applying my technical knowledge in a professional setting. I also worked as a Marketing Assistant Intern at Yanji (Zhejiang) Semiconductor Technology Co., Ltd., which gave me exposure to the business and marketing side of the technology industry. Currently, I work part-time in accounting at iDen & Quanjude in Vancouver while pursuing my master’s degree."
+  },
+  {
+    "objectID": "about.html#why-data-science",
+    "href": "about.html#why-data-science",
+    "title": "About",
+    "section": "Why Data Science",
+    "text": "Why Data Science\nMy background in both computer science and statistics naturally led me to data science, as it brings together the areas I enjoyed most during my undergraduate studies. I chose the MDS program to gain more hands-on experience and learn how to approach real-world problems using data. I am especially interested in exploring different areas of data science and discovering where I would like to focus my career after graduation."
+  },
+  {
+    "objectID": "about.html#outside-of-data-science",
+    "href": "about.html#outside-of-data-science",
+    "title": "About",
+    "section": "Outside of Data Science",
+    "text": "Outside of Data Science\nOutside of school and work, I enjoy travelling, swimming, and exploring new restaurants and food. I also have a cat named Mimi who keeps me company during my time at home."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Kaiwen Zhang",
+    "title": "Carmen Zhang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi! My name is Carmen Zhang. I am originally from China and moved to Vancouver when I was in Grade 8. Before joining UBC’s Master of Data Science program, I completed my undergraduate studies at UBC with a combined major in Computer Science and Statistics. Through MDS, I hope to strengthen my practical data science skills, explore different areas of the field, and discover where I can make the most meaningful impact."
   }
 ]

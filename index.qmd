@@ -1,7 +1,7 @@
 ---
-title: "Kaiwen Zhang"
+title: "Carmen Zhang"
 ---
 
-This is a Quarto website.
+![](images/profile.jpg){width=250px}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Carmen Zhang. I am originally from China and moved to Vancouver when I was in Grade 8. Before joining UBC's Master of Data Science program, I completed my undergraduate studies at UBC with a combined major in Computer Science and Statistics. Through MDS, I hope to strengthen my practical data science skills, explore different areas of the field, and discover where I can make the most meaningful impact.

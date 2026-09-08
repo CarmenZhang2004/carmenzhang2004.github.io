@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Kaiwen Zhang"
+  title: "Carmen Zhang Porfolio"
   navbar:
     left:
       - href: index.qmd
