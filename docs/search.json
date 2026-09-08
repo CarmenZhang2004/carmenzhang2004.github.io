@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 8, 2026\n\n\nCarmen Zhang\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carmen Zhang",
+    "section": "",
+    "text": "Hi! My name is Carmen Zhang. I am originally from China and moved to Vancouver when I was in Grade 8. Before joining UBC’s Master of Data Science program, I completed my undergraduate studies at UBC with a combined major in Computer Science and Statistics. Through MDS, I hope to strengthen my practical data science skills, explore different areas of the field, and discover where I can make the most meaningful impact."
+  },
+  {
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "My first few weeks in the MDS program have been a great experience so far. The professors and TAs have been very friendly and supportive, and I really appreciate how clearly the courses are organized. The instructions for lectures, worksheets, and lab assignments are easy to follow, which has made it much easier to adjust to the pace of the program.\nBecause of my undergraduate background in Computer Science and Statistics at UBC, much of the material so far has felt like a helpful review. We have been reviewing Python and R, as well as some fundamental concepts in statistics and probability. I think the current pace is a good fit for me because it gives me an opportunity to refresh what I already know while gradually getting used to the structure and workload of MDS.\nLooking ahead, I am excited to learn more advanced topics and gain deeper knowledge in data science. I also hope there will be more opportunities to work on hands-on projects where I can apply what I learn to practical problems. Building more projects throughout the program would not only help me develop my skills, but also allow me to strengthen my portfolio and resume as I prepare for future career opportunities.\n\n\n\nMy first week in the UBC MDS program."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -26,26 +47,5 @@
     "title": "About",
     "section": "Outside of Data Science",
     "text": "Outside of Data Science\nOutside of school and work, I enjoy travelling, swimming, and exploring new restaurants and food. I also have a cat named Mimi who keeps me company during my time at home."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carmen Zhang",
-    "section": "",
-    "text": "Hi! My name is Carmen Zhang. I am originally from China and moved to Vancouver when I was in Grade 8. Before joining UBC’s Master of Data Science program, I completed my undergraduate studies at UBC with a combined major in Computer Science and Statistics. Through MDS, I hope to strengthen my practical data science skills, explore different areas of the field, and discover where I can make the most meaningful impact."
-  },
-  {
-    "objectID": "posts/first-weeks/index.html",
-    "href": "posts/first-weeks/index.html",
-    "title": "My first weeks in MDS",
-    "section": "",
-    "text": "My first few weeks in the MDS program have been a great experience so far. The professors and TAs have been very friendly and supportive, and I really appreciate how clearly the courses are organized. The instructions for lectures, worksheets, and lab assignments are easy to follow, which has made it much easier to adjust to the pace of the program.\nBecause of my undergraduate background in Computer Science and Statistics at UBC, much of the material so far has felt like a helpful review. We have been reviewing Python and R, as well as some fundamental concepts in statistics and probability. I think the current pace is a good fit for me because it gives me an opportunity to refresh what I already know while gradually getting used to the structure and workload of MDS.\nLooking ahead, I am excited to learn more advanced topics and gain deeper knowledge in data science. I also hope there will be more opportunities to work on hands-on projects where I can apply what I learn to practical problems. Building more projects throughout the program would not only help me develop my skills, but also allow me to strengthen my portfolio and resume as I prepare for future career opportunities.\n\n\n\nMy first week in the UBC MDS program."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 8, 2026\n\n\nCarmen Zhang\n\n\n\n\n\nNo matching items"
   }
 ]
